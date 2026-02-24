@@ -49,11 +49,11 @@ Resulting in a more trustworthy AI pipeline.
 
 ##  Key Features
 
-✅ Multi-document semantic retrieval  
-✅ Confidence-aware response validation  
-✅ Automatic self-correction strategy  
-✅ Answer quality evaluation  
-✅ Interactive Streamlit interface  
+ Multi-document semantic retrieval  
+ Confidence-aware response validation  
+ Automatic self-correction strategy  
+ Answer quality evaluation  
+ Interactive Streamlit interface  
 
 ---
 
@@ -68,7 +68,7 @@ Low overlap → Lower confidence → Correction trigger
 
 ---
 
-## 🖥 Demo Interface
+##  Demo Interface
 
 ![Demo UI](images/demo1.png)
 ![Demo UI](images/demo2.png)
@@ -88,7 +88,7 @@ Low overlap → Lower confidence → Correction trigger
 
 ---
 
-## ⚙ Installation
+##  Installation
 
 ```bash
 pip install -r requirements.txt
